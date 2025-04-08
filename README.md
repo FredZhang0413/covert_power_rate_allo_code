@@ -1,6 +1,6 @@
 # Covert Power & Rate Allocation Simulation
 
-This repository contains simulation code for the paper:  
+This repository contains simulation code for the submitted paper:  
 **"Power and Rate Allocations for Positive Secrecy Capacity in Covert Communications"**  
 
 ## Structure
